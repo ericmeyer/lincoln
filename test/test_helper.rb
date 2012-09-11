@@ -4,6 +4,7 @@ require 'rubygems'
 require 'shoulda'
 
 require 'active_record'
+require 'active_support/test_case'
 # Debug activerecord
 # require 'logger'
 # ActiveRecord::Base.logger = Logger.new(STDOUT)
